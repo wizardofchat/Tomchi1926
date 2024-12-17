@@ -8,6 +8,7 @@ print(flag1)
 
 def print_tomchi():
     print("Inside print_tomchi")
+    print("Inside print_tomchi123")
 
 print_tomchi()
 
