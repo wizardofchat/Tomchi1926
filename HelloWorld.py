@@ -6,3 +6,9 @@ flag1 = 21
 
 print(flag1)
 
+def print_tomchi():
+    print("Inside print_tomchi")
+
+print_tomchi()
+
+
